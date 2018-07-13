@@ -1,3 +1,6 @@
-# novadotbi_symfony
+novabi_symfony
+==============
 
-//Created this project on 13 July 2018
+A Symfony project created on July 10, 2018, 12:22 pm.
+
+By blasius
