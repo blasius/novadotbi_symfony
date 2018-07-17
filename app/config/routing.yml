@@ -1,3 +1,7 @@
+nova_platform:
+    resource: "@NovaPlatformBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation
